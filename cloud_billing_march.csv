@@ -1,0 +1,9 @@
+Date,Service,Resource,UsageHours,Cost
+2025-03-02,EC2,VM-301,160,320
+2025-03-05,S3,Storage-E,0,45
+2025-03-07,RDS,DB-Analytics,220,380
+2025-03-10,Lambda,Func-3,140,30
+2025-03-14,EC2,VM-302,0,70
+2025-03-18,CloudWatch,Logs-1,60,20
+2025-03-22,S3,Storage-F,0,25
+2025-03-28,EC2,VM-303,190,360
